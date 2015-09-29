@@ -10,7 +10,25 @@
 
 }
 .logo{
+    margin: 0;
+    padding: 0;
     position: absolute;
     padding: 5px;
     margin-left: 20px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+
+    margin-left: 70%;
+    float: right;
+    clear: both;
+    position: absolute;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+
 }
