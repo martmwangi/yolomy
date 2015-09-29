@@ -16,19 +16,14 @@
     padding: 5px;
     margin-left: 20px;
 }
-
-ul{
-    margin: 0;
-    padding: 0;
-}
-ul li{
-
-    margin-left: 70%;
-    float: right;
-    clear: both;
-    position: absolute;
+#nav-mobile{
     color: white;
-    padding: 20px;
-    display: inline-block;
+    background-color: transparent;
+}
 
+nav{
+    background-color: transparent;
+}
+#nav-wrapper{
+    background-color:inherit;
 }
