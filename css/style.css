@@ -16,9 +16,7 @@
     padding: 5px;
     margin-left: 20px;
 }
-.our we it {
-    color: white;
-}
+
 
 
 .nav-wrapper{
@@ -29,3 +27,29 @@
 .white{
     color: white;
 }
+
+.middle{
+
+    margin-top: 12%;
+}
+.our  {
+    color: white;
+    font-size: 40px;
+    margin-left: 29%;
+    margin-right: 20%;
+
+
+}
+.we{
+    color: white;
+    font-size: 19px;
+    margin-left: 33%;
+}
+.it{
+    color: white;
+    font-size: 16px;
+    margin-left: 35%;
+}
+
+
+
