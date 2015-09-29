@@ -16,14 +16,12 @@
     padding: 5px;
     margin-left: 20px;
 }
-#nav-mobile{
-    color: white;
-    background-color: transparent;
-}
 
-nav{
-    background-color: transparent;
+
+.nav-wrapper{
+    background-color: transparent !important;
+    box-shadow: 0 0 0 transparent;
 }
-#nav-wrapper{
-    background-color:inherit;
+.white{
+    color: white;
 }
