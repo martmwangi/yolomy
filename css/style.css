@@ -152,3 +152,9 @@ Hero section*/
     background-color: #343F5A;
     text-align: center;
 }
+/*Styling for the footer*/
+footer{
+    margin-top: -15px;
+    color: white;
+    background-color: #424242;
+}
