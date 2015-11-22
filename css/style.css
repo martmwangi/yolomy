@@ -93,16 +93,30 @@ form label{
 }
 .item{
 
-    padding: 5px;
+    padding: 60px;
+    background-color: #E7E9FD;
+
 }
-.item:hover{
-    border: 1px solid brown;
+hr{
+    height: 20px;
+    margin-top: 20px;
+    background-color: black;
+    color: black;
 }
-
-
-
-
-
-
-
-
+.ig{
+    padding: 60px;
+}
+.col s4{
+    height: 300px;
+    padding: 25px;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.ten{
+    color: white;
+    background-color: white;
+}
