@@ -32,24 +32,25 @@
 .middle{
 
     margin-top: 12%;
+    text-align: center;
 }
 .our  {
     color: white;
     font-size: 40px;
-    margin-left: 29%;
-    margin-right: 20%;
+
 
 
 }
 .we{
     color: white;
-    font-size: 19px;
-    margin-left: 33%;
+    font-size: 20px;
+
+
 }
 .it{
     color: white;
-    font-size: 16px;
-    margin-left: 35%;
+    font-size: 20px;
+
 }
 
 /*For the second cpontainer with the check box and button to see all*/
@@ -119,4 +120,28 @@ hr{
 .ten{
     color: white;
     background-color: white;
+}
+/*
+
+Hero section*/
+#hero{
+    color: white;
+
+    background-image: url(../assets/backgrounds/about.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+.us{
+    margin-top: 40px;
+}
+.us2{
+    margin-top: 60px;
+    font-size: 20px;
+}
+.bout{
+    border: 1px solid white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
 }
